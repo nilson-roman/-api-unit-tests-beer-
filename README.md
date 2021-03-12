@@ -57,4 +57,4 @@ Agradecimento ao Rodrigo Peleias pelo fornecimento do código e aos ensinamentos
 
 Link original do projeto: https://github.com/rpeleias/beer_api_digital_innovation_one
 
-Como sugestão foi solicitado implementar o servico de decremento de estoque de cervejas.
+Como sugestão foi solicitado implementar o serviço de decremento de estoque de cervejas.
